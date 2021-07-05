@@ -17,7 +17,7 @@ spacepy https://pythonhosted.org/SpacePy/install.html
 
 1- Clone and intall
 
-git clone https://github.com/germanfarinas/test-particle.git
+git clone https://github.com/germanfarinas/test-particle.git 
 cd test-particle
 python setup.py install
 
